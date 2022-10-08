@@ -20,7 +20,7 @@
     "cookie-parser": "~1.4.3",
     "cors": "^2.8.3",
     "debug": "~2.6.3",
-    "dotenv": "^4.0.0",
+    "dotenv": "^16.0.2",
     "elasticsearch": "^13.0.1",
     "express": "^4.15.5",
     "express-basic-auth": "^1.1.3",
